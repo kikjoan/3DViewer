@@ -10,7 +10,8 @@ The application is developed in **C++** and utilizes a combination of **OpenGL**
 
 1. Ensure all required dependencies are installed on your system (see the **Dependencies** section).
 2. Use a supported build system (e.g., CMake) to configure the project:
-   ```sd src
+   ```
+   sd src
    make all
    ```
 3. After a successful build, the executable will be available in the build directory.
